@@ -1,0 +1,166 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	background-image:url('b2.jpg');
+	background-size:100% 100%;
+	font-family:Poppins-Regular;
+}
+#outer{
+	font-family:Calibri;
+	height:auto;
+}
+#header{
+	height:80px;
+	width:auto;
+	/*background:#8bc34a;*/}
+#title1{
+	height:70px;
+	width:200px;
+	padding-left:100px;
+	float:left;
+	padding-top:10px;
+	font-family:'Agency FB';
+	font-weight:bold;
+}
+#menu{
+	margin-top:37px;
+	height:40px;
+	float:right;
+	width:895px;
+	padding-right:0px;
+	background:#009688;
+}
+.menubox{
+	height:30px;
+	font-size:18px;
+	padding-top:10px;
+	width:auto;
+	padding-right:50px;
+	padding-left:50px;
+	float:right;
+	font-weight:bold;
+}
+.menubox:hover{
+	background-color:#fff;
+	color:#8bc34a;
+}
+#menu a{
+	color:#fff;
+	background-color:#333;
+}
+#content{
+	margin:0px auto;
+	height:auto;
+	width:100%;
+	
+}
+/*Slider .........................*/
+#slider
+{
+	height:300px;
+	width:100%;
+	opacity: 0.5;
+  filter: alpha(opacity=50);
+  background:#000;
+}
+#txt1
+{
+	height:50px;
+	text-align:center;
+	width:100%;
+	padding-top:50px;
+	margin:0px auto;
+	font-weight:bold;
+}
+#txt2
+{
+	height:80px;
+	width:100%;
+	margin:0px auto;
+	padding-top:30px;
+	text-align:center;
+	font-size:40px;
+	font-family:Gungsuh;
+}
+#txt3
+{
+	height:50px;
+	width:100%;
+	padding-top:10px;
+	margin:0px auto;
+	text-align:center;
+	font-size:40px;
+	font-family:Gungsuh;
+	text-shadow:5px 2px 2px black;
+}
+/*Slider.............................*/
+/*Services.............................*/
+#services{
+	height:550px;
+	width:700px;
+	padding:40px;
+	margin:10px auto;
+	padding-top:20px;
+	background:#fff;
+	opacity: 0.8;
+  filter: alpha(opacity=80);
+	text-align:center;
+	font-size:19px;
+	line-height:28px;
+}
+/*Services.............................*/
+
+
+#footer
+{
+	height:30px;
+	width:auto;
+	padding-top:10px;
+	background:#222;
+	font-size:18px;
+	color:#fff;
+	font-family:calibri;
+}
+#footer a{
+	text-decoration:none;
+	color:#ffffff;
+	
+}
+#left1
+{
+	height:30px;
+	width:400px;
+	float:left;
+	padding-left:20px;
+}
+#right1
+{
+	height:30px;
+	width:580px;
+	float:right;
+	text-align:right;
+	padding-right:20px;
+	
+}
+/*--------------------------TITLE STYLE------------------------*/
+#sp1{
+	font-size:45px;
+	color:#fff;
+	text-shadow:5px 2px 2px black;
+}
+#sp2{
+	font-size:55px;
+	color:orange;
+	text-shadow:5px 2px 2px black;
+}
+#sp3{
+	font-size:45px;
+	color:#fff;
+	text-shadow:5px 2px 2px black;
+}
+#sp4{
+	font-size:14px;
+	color:#000;
+}

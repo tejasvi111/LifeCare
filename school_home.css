@@ -1,0 +1,126 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	background-size:100% 100%;
+	background-image:url('checkup.jpg');
+	background-size:cover;
+}
+#outer{
+	font-family:Calibri;
+	height:auto;
+}
+#header{
+	height:80px;
+	width:auto;
+	background:#8bc34a;}
+#title1{
+	height:70px;
+	width:200px;
+	padding-left:100px;
+	float:left;
+	padding-top:10px;
+	font-family:'Agency FB';
+	font-weight:bold;
+}
+#menu{
+	margin-top:37px;
+	height:40px;
+	float:right;
+	width:160px;
+	padding-right:0px;
+	background:#8bc34a;
+}
+.menubox{
+	height:30px;
+	font-size:18px;
+	padding-top:10px;
+	width:auto;
+	padding-right:50px;
+	padding-left:50px;
+	float:right;
+	font-weight:bold;
+}
+.menubox:hover{
+	background-color:#fff;
+	color:#8bc34a;
+}
+#menu a{
+	color:#fff;
+	background-color:#333;
+}
+#content{
+	height:auto;
+	width:600px;
+	color:#fff;
+	font-size:18px;
+	padding:40px;
+	margin:50px auto;
+	line-height:30px;
+	opacity: 0.5;
+  filter: alpha(opacity=50);
+  background:#000;
+}
+#content a{
+	color:#fff;
+	background-color:#333;
+	padding:10px;
+	background:green;
+	border-radius:4%;
+	text-decoration:none;
+}
+/*Footer................*/
+#footer
+{
+	height:30px;
+	position:fixed;
+	right:0px;
+	left:0px;
+	bottom:0px;
+	background:#222;
+	font-size:18px;
+	color:#fff;
+	font-family:calibri;
+}
+#footer a{
+	text-decoration:none;
+	color:#ffffff;
+	
+}
+#left1
+{
+	height:30px;
+	width:400px;
+	float:left;
+	padding-left:20px;
+}
+#right1
+{
+	height:30px;
+	width:580px;
+	float:right;
+	text-align:right;
+	padding-right:20px;
+	
+}
+/*--------------------------TITLE STYLE------------------------*/
+#sp1{
+	font-size:35px;
+	color:#fff;
+	text-shadow:5px 2px 2px black;
+}
+#sp2{
+	font-size:55px;
+	color:orange;
+	text-shadow:5px 2px 2px black;
+}
+#sp3{
+	font-size:35px;
+	color:#fff;
+	text-shadow:5px 2px 2px black;
+}
+#sp4{
+	font-size:14px;
+	color:#000;
+}
